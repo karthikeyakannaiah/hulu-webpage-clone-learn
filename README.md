@@ -1,6 +1,6 @@
 # hulu-webpage-clone-learn
 done in part of learning. resource: traversy media  
-![alt](Screenshot from 2022-09-22 12-40-56)
+![alt](Screenshot from 2022-09-22 12-40-56.png)
 
 
 https://hulu-clone-by-karthik.netlify.app/
